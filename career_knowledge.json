@@ -1,0 +1,427 @@
+{
+    "Data Scientist": {
+        "education": [
+            "Computer Science",
+            "Engineering"
+        ],
+        "experience": [
+            "Data Analyst",
+            "Software Developer"
+        ],
+        "skills": [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Data Analysis",
+            "Problem-Solving"
+        ],
+        "interests": [
+            "Tech & AI",
+            "Science & Research"
+        ],
+        "mbti": [
+            "INTJ",
+            "ISTJ",
+            "INFJ"
+        ]
+    },
+    "Marketing Manager": {
+        "education": [
+            "Marketing",
+            "Business Administration"
+        ],
+        "experience": [
+            "Marketing Specialist",
+            "Sales Associate"
+        ],
+        "skills": [
+            "Public Speaking",
+            "Sales",
+            "Negotiation",
+            "Leadership",
+            "Teamwork"
+        ],
+        "interests": [
+            "Business & Entrepreneurship",
+            "Creative Arts & Writing"
+        ],
+        "mbti": [
+            "ENTP",
+            "ENFP",
+            "ESTJ"
+        ]
+    },
+    "UI/UX Designer": {
+        "education": [
+            "Graphic Design",
+            "Computer Science"
+        ],
+        "experience": [
+            "Graphic Designer",
+            "Software Developer"
+        ],
+        "skills": [
+            "Writing",
+            "Content Creation",
+            "Design"
+        ],
+        "interests": [
+            "Creative Arts & Writing",
+            "Tech & AI"
+        ],
+        "mbti": [
+            "ISFP",
+            "INFP",
+            "ENTP"
+        ]
+    },
+    "Therapist": {
+        "education": [
+            "Psychology",
+            "Biology"
+        ],
+        "experience": [
+            "Teacher",
+            "Social Worker"
+        ],
+        "skills": [
+            "Empathy",
+            "Communication",
+            "Problem-Solving"
+        ],
+        "interests": [
+            "Social Work & Psychology",
+            "Education & Teaching"
+        ],
+        "mbti": [
+            "INFJ",
+            "ENFJ",
+            "ISFP"
+        ]
+    },
+    "Software Engineer": {
+        "education": [
+            "Computer Science",
+            "Software Engineering"
+        ],
+        "experience": [
+            "Software Developer",
+            "System Analyst"
+        ],
+        "skills": [
+            "Java",
+            "C++",
+            "Problem-Solving",
+            "Teamwork"
+        ],
+        "interests": [
+            "Tech & AI",
+            "Programming"
+        ],
+        "mbti": [
+            "INTJ",
+            "ENTP",
+            "ISTP"
+        ]
+    },
+    "Project Manager": {
+        "education": [
+            "Business Administration",
+            "Management"
+        ],
+        "experience": [
+            "Team Lead",
+            "Project Coordinator"
+        ],
+        "skills": [
+            "Leadership",
+            "Communication",
+            "Time Management",
+            "Problem-Solving"
+        ],
+        "interests": [
+            "Business & Entrepreneurship",
+            "Management"
+        ],
+        "mbti": [
+            "ESTJ",
+            "ENTJ",
+            "ISTJ"
+        ]
+    },
+    "Graphic Designer": {
+        "education": [
+            "Graphic Design",
+            "Fine Arts"
+        ],
+        "experience": [
+            "Illustrator",
+            "Art Director"
+        ],
+        "skills": [
+            "Adobe Creative Suite",
+            "Creativity",
+            "Attention to Detail",
+            "Typography"
+        ],
+        "interests": [
+            "Creative Arts & Writing",
+            "Design"
+        ],
+        "mbti": [
+            "ISFP",
+            "INFP",
+            "ENFP"
+        ]
+    },
+    "Financial Analyst": {
+        "education": [
+            "Finance",
+            "Economics"
+        ],
+        "experience": [
+            "Accountant",
+            "Financial Planner"
+        ],
+        "skills": [
+            "Financial Analysis",
+            "Excel",
+            "Attention to Detail",
+            "Problem-Solving"
+        ],
+        "interests": [
+            "Finance & Investment",
+            "Business & Entrepreneurship"
+        ],
+        "mbti": [
+            "ISTJ",
+            "INTJ",
+            "ENTJ"
+        ]
+    },
+    "Human Resources Manager": {
+        "education": [
+            "Human Resources",
+            "Business Administration"
+        ],
+        "experience": [
+            "HR Specialist",
+            "Recruiter"
+        ],
+        "skills": [
+            "Communication",
+            "Conflict Resolution",
+            "Leadership",
+            "Organizational Skills"
+        ],
+        "interests": [
+            "Social Work & Psychology",
+            "Management"
+        ],
+        "mbti": [
+            "ENFJ",
+            "ESFJ",
+            "INFJ"
+        ]
+    },
+    "Mechanical Engineer": {
+        "education": [
+            "Mechanical Engineering",
+            "Engineering"
+        ],
+        "experience": [
+            "Mechanical Technician",
+            "Project Engineer"
+        ],
+        "skills": [
+            "CAD",
+            "Problem-Solving",
+            "Project Management",
+            "Technical Skills"
+        ],
+        "interests": [
+            "Engineering & Technology",
+            "Science & Research"
+        ],
+        "mbti": [
+            "ISTJ",
+            "INTJ",
+            "ENTJ"
+        ]
+    },
+    "Civil Engineer": {
+        "education": [
+            "Civil Engineering",
+            "Construction Management"
+        ],
+        "experience": [
+            "Site Engineer",
+            "Project Engineer"
+        ],
+        "skills": [
+            "AutoCAD",
+            "Project Management",
+            "Structural Analysis",
+            "Problem-Solving"
+        ],
+        "interests": [
+            "Engineering & Technology",
+            "Construction"
+        ],
+        "mbti": [
+            "ISTJ",
+            "INTJ",
+            "ENTJ"
+        ]
+    },
+    "Nurse": {
+        "education": [
+            "Nursing",
+            "Healthcare"
+        ],
+        "experience": [
+            "Registered Nurse",
+            "Nurse Practitioner"
+        ],
+        "skills": [
+            "Patient Care",
+            "Communication",
+            "Empathy",
+            "Critical Thinking"
+        ],
+        "interests": [
+            "Healthcare & Medicine",
+            "Social Work & Psychology"
+        ],
+        "mbti": [
+            "ISFJ",
+            "ESFJ",
+            "INFJ"
+        ]
+    },
+    "Teacher": {
+        "education": [
+            "Education",
+            "Child Development"
+        ],
+        "experience": [
+            "Teaching Assistant",
+            "Tutor"
+        ],
+        "skills": [
+            "Communication",
+            "Patience",
+            "Creativity",
+            "Classroom Management"
+        ],
+        "interests": [
+            "Education & Teaching",
+            "Social Work & Psychology"
+        ],
+        "mbti": [
+            "ENFJ",
+            "ESFJ",
+            "INFJ"
+        ]
+    },
+    "Accountant": {
+        "education": [
+            "Accounting",
+            "Finance"
+        ],
+        "experience": [
+            "Bookkeeper",
+            "Auditor"
+        ],
+        "skills": [
+            "Financial Analysis",
+            "Excel",
+            "Attention to Detail",
+            "Problem-Solving"
+        ],
+        "interests": [
+            "Finance & Investment",
+            "Business & Entrepreneurship"
+        ],
+        "mbti": [
+            "ISTJ",
+            "INTJ",
+            "ENTJ"
+        ]
+    },
+    "Lawyer": {
+        "education": [
+            "Law",
+            "Political Science"
+        ],
+        "experience": [
+            "Paralegal",
+            "Legal Assistant"
+        ],
+        "skills": [
+            "Research",
+            "Public Speaking",
+            "Critical Thinking",
+            "Negotiation"
+        ],
+        "interests": [
+            "Law & Government",
+            "Business & Entrepreneurship"
+        ],
+        "mbti": [
+            "ENTJ",
+            "INTJ",
+            "ESTJ"
+        ]
+    },
+    "Chef": {
+        "education": [
+            "Culinary Arts",
+            "Hospitality Management"
+        ],
+        "experience": [
+            "Line Cook",
+            "Sous Chef"
+        ],
+        "skills": [
+            "Cooking",
+            "Creativity",
+            "Time Management",
+            "Attention to Detail"
+        ],
+        "interests": [
+            "Food & Beverage",
+            "Creative Arts & Writing"
+        ],
+        "mbti": [
+            "ISFP",
+            "ESFP",
+            "ENFP"
+        ]
+    },
+    "Journalist": {
+        "education": [
+            "Journalism",
+            "Communications"
+        ],
+        "experience": [
+            "Reporter",
+            "Editor"
+        ],
+        "skills": [
+            "Writing",
+            "Research",
+            "Interviewing",
+            "Critical Thinking"
+        ],
+        "interests": [
+            "Writing & Literature",
+            "Social Work & Psychology"
+        ],
+        "mbti": [
+            "ENFP",
+            "ENTP",
+            "INFJ"
+        ]
+    }
+}
