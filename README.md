@@ -1,7 +1,7 @@
 # Career Suggestion Tool
 
 ## 📌 Overview
-**🚨 Disclaimer:** I'm a newbie, so please be kind to me! The dataset here is a work in progress, I'm still working on importing datasets. Constructive feedback is welcome! 😃
+**🚨 Disclaimer:** The dataset here is a work in progress, I'm still working on importing datasets. Constructive feedback is welcome! 😃
 
 The **Career Suggestion Tool** is a Python-based project that provides personalized career recommendations based on user inputs such as **personality traits, MBTI type, interests, work experience, education, and skills**. The tool uses a structured dataset to suggest careers that best match the user's profile.
 
